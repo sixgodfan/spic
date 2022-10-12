@@ -18,5 +18,4 @@
 //         headers: { 'content-type': 'image/jpeg' },
 //     })
 // }
-const appDiv: HTMLElement = document.getElementById('app');
-appDiv.innerHTML = `<h1>TypeScript asdad 撒打算</h1>`;
+<h1>TypeScript asdad 撒打算</h1>;
