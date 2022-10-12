@@ -18,4 +18,4 @@
 //         headers: { 'content-type': 'image/jpeg' },
 //     })
 // }
-<h1>TypeScript asdad 撒打算</h1>;
+alert("<h1>TypeScript asdad 撒打算</h1>"); 
